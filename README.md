@@ -14,7 +14,7 @@ I’m a **Computer Systems Engineering student** passionate about building innov
 - Efficient ways to write and deploy code using industry standard tools 
 
 📚 Currently learning:
-- Microsoft Azure to build and deploy my first AI Agent
+- Microsoft Azure to build and deploy my first AI Agent to enchance my powerlifitng performance
 - C++ to build a 3D rendering software to render a simple black hole
 - VIM to edit and write code in the terminal of UNIX based systems
 
