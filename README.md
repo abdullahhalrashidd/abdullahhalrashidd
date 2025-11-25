@@ -11,12 +11,7 @@ I’m a **Computer Systems Engineering student** passionate about building innov
 💻 I enjoy learning about:  
 - New and innovative technological advances
 - AI & Machine Learning and how to automate everyday routines using AI Agents 
-- Efficient ways to write and deploy code using industry standard tools 
-
-📚 Currently learning:
-- Microsoft Azure to build and deploy my first AI Agent to enchance my powerlifitng performance
-- C++ to build a 3D rendering software to render a simple black hole
-- VIM to edit and write code in the terminal of UNIX based systems
+- Efficient ways to write and deploy code using industry standard tools like CUDA
 
 ---
 
