@@ -20,12 +20,21 @@ I’m a **Computer Systems Engineering student** passionate about building innov
 
 ---
 
-## 🧑‍💻 Programming Langauges 
+## 🧑‍💻 Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=processor&logoColor=white)  
+![Java](https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons/icons/Java.svg)
+![Python](https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons/icons/Python.svg)
+![C](https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons/icons/C.svg)
+![Assembly](https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons/icons/Assembly.svg)
 
-## 🔨 Tools & Frameworks  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)  ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)   
+## 🔨 Tools & Frameworks
+![GitHub](https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons/icons/Github-Dark.svg)
+![Linux](https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons/icons/Linux.svg)
+![VS Code](https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons/icons/VSCode-Dark.svg)
+![JUnit](https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons/icons/JUnit.svg)
+![NumPy](https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons/icons/Numpy.svg)
+![Matplotlib](https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons/icons/Matplotlib.svg)
+![MATLAB](https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons/icons/MATLAB.svg)
 
 ---
 
