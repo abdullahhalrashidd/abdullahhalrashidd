@@ -1,4 +1,7 @@
-# 🥽 Abdullah Al-Rashid  
+# 🥽 Abdullah Al-Rashid
+
+![NgodingMuluGIF](https://github.com/user-attachments/assets/e000637b-d1c9-4668-80ff-55cbc66d9e0e)
+
 
 ## 🚀 A Little About Me  
 I’m a third year Computer Systems Engineering student @ Carleton University passionate about building innovative and unique software to solve real-world problems.  
@@ -14,7 +17,7 @@ I’m a third year Computer Systems Engineering student @ Carleton University pa
 
 
 ## 🔨 Tools & Frameworks
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=vscode,github,cuda,linux,git,matlab)
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=vscode,github,cuda,linux,git,matlab,numpy,matplotlib,pytest,junit)
 
 ---
 
