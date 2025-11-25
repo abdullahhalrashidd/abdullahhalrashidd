@@ -1,35 +1,20 @@
 # 🥽 Abdullah Al-Rashid  
 
-🎓 **Computer Systems Engineering Student @ Carleton University**  
-📍 Ottawa, ON | ✉️ [abdullahhalrashidd@gmail.com](mailto:abdullahhalrashidd@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  
-
----
-
-## 🚀 About Me  
-I’m a **Computer Systems Engineering student** passionate about building innovative and unique software to solve real-world problems.  
+## 🚀 A Little About Me  
+I’m a third year Computer Systems Engineering student @ Carleton University passionate about building innovative and unique software to solve real-world problems.  
 
 💻 I enjoy learning about:  
-- New and innovative technological advances
-- AI & Machine Learning and how to automate everyday routines using AI Agents 
-- Efficient ways to write and deploy code using industry standard tools like CUDA
+- Industry standard tools like CUDA (currently learning), Github, PyTorch
+- New and innovative advances in the technological space (i.e. Deployment of AI Datacenters via Starcloud to space as a cooling solution)
 
 ---
 
-## 🧑‍💻 Programming Languages
+## 🧑‍💻 Programming Languages 
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,java,c,cpp,assembly)
 
-![Java](https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons/icons/Java.svg)
-![Python](https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons/icons/Python.svg)
-![C](https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons/icons/C.svg)
-![Assembly](https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons/icons/Assembly.svg)
 
 ## 🔨 Tools & Frameworks
-![GitHub](https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons/icons/Github-Dark.svg)
-![Linux](https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons/icons/Linux.svg)
-![VS Code](https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons/icons/VSCode-Dark.svg)
-![JUnit](https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons/icons/JUnit.svg)
-![NumPy](https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons/icons/Numpy.svg)
-![Matplotlib](https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons/icons/Matplotlib.svg)
-![MATLAB](https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons/icons/MATLAB.svg)
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=vscode,github,cuda,linux,git,matlab)
 
 ---
 
