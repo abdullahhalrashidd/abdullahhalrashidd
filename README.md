@@ -17,7 +17,7 @@ I’m a third year Computer Systems Engineering student @ Carleton University pa
 
 
 ## 🔨 Tools & Frameworks
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=vscode,github,cuda,linux,git,matlab,numpy,matplotlib,pytest,pytorch,junit,nodejs)
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=vscode,github,linux,git,matlab,numpy,matplotlib,pytest,junit,nodejs,unrealengine)
 
 ---
 
