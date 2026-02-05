@@ -13,7 +13,7 @@ I’m a third year Computer Systems Engineering student @ Carleton University pa
 ---
 
 ## 🧑‍💻 Programming Languages 
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,java,c,cpp,assembly)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,java,c)
 
 
 ## 🔨 Tools & Frameworks
