@@ -1,4 +1,4 @@
-# 🥽 Abdullah Al-Rashid
+# 🏋️🥽 Abdullah Al-Rashid
 
 ![NgodingMuluGIF](https://github.com/user-attachments/assets/e000637b-d1c9-4668-80ff-55cbc66d9e0e)
 
