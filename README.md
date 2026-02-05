@@ -13,11 +13,11 @@ I’m a third year Computer Systems Engineering student @ Carleton University pa
 ---
 
 ## 🧑‍💻 Programming Languages 
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,java,c)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,java,c,typescript)
 
 
 ## 🔨 Tools & Frameworks
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=vscode,github,linux,git,wsl,numpy,matplotlib,pytest,junit,unrealengine,opencv,firebase)
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=vscode,github,linux,git,wsl,numpy,matplotlib,unrealengine,opencv,firebase,react)
 
 ---
 
